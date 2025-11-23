@@ -1,11 +1,5 @@
 mlops-mini-project
 ==============================
-Absolutely! Here’s a **clear, professional, and concise README description** you can use for this project:
-
----
-
-# MLOps Mini Project
-
 This is an **end-to-end Machine Learning project with MLOps best practices**. It demonstrates how to build a reproducible, maintainable, and deployable ML pipeline using modern MLOps tools and workflows.
 
 ## Project Overview

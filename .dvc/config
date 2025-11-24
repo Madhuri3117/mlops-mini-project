@@ -1,4 +1,4 @@
 [core]
     remote = myremote3
 ['remote "myremote3"']
-    url = C:/Users/madhu/AppData/Local/Temp
+    url = C:\Users\madhu\AppData\Local\Temp

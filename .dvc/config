@@ -1,4 +1,4 @@
 [core]
-    remote = myremote3
-['remote "myremote3"']
-    url = C:\Users\madhu\AppData\Local\Temp
+    remote = myremote1
+['remote "myremote1"']
+    url = http://mlops3-mini-project.s3-website.us-east-2.amazonaws.com
